@@ -23,11 +23,11 @@ public class Quiz {
 		//è³ªå•å†…å®¹
 		//å›ç­”å†…å®¹
 		//ãƒ¦ãƒ¼ã‚¶ãƒ¼ãŒç­”ãˆã‚’å…¥åŠ›
+		Scanner sc = new Scanner(System.in);
+		System.out.println("L“‡Œ§‚Ìã‚ÌŒ§‚Í‚Ç‚±‚Å‚µ‚å‚¤");
+		System.out.println("1 : RŒûŒ§, 2 : “‡ªŒ§, 3 : ’¹æŒ§");
 		
-
-
-
-
+		ans1 = sc.nextInt();
 
 
 
